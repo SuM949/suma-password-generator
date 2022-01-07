@@ -52,7 +52,7 @@ WHEN prompted for password criteria
 THEN a password is generated
 
 screenshot of the program :-
-/Users/sumayagure/suma-password-generator/suma.pg.png
+<img width="1381" alt="Screenshot 2022-01-07 at 00 22 28" src="https://user-images.githubusercontent.com/92344120/148474245-18aad693-22a9-4616-8eb8-6f06c245c250.png">
 
 
  
